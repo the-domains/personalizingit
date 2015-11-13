@@ -1,0 +1,23 @@
+name: Personalizingit
+favicon: null
+layout_spectrum: 0.8729850016534328
+typography_spectrum: 0.6722107143141329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3523638953920454
+  lightness: 0.049938010051846504
+  saturation: 0.5037439621519297
+  rhythmicContrast: 0.7681099756155163
+purpose: []
