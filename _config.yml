@@ -1,7 +1,30 @@
-name: Personalizingit
-favicon: null
-layout_spectrum: 0.9317937
 typography_spectrum: 0.6722107143141329
+color:
+  brandColors:
+    - '#ED1C24'
+    - '#897763'
+    - '#000000'
+    - '#FFFFFF'
+    - '#FDB813'
+  brandStrength: 0.4375
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9317937
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Personalizingit
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +38,5 @@ collections:
       format: rss
       number: 10
 title: Personalizing-It Inc
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#ED1C24'
-    - '#897763'
-    - '#000000'
-    - '#FFFFFF'
-    - '#FDB813'
-  brandStrength: 0.4375
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
+description: Leo
 purpose: []
