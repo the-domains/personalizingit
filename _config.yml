@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: personalizingit
+    url: 'Http:/www.personalizingit.com'
+    type: external
 favicon: null
 collections:
   - index:
